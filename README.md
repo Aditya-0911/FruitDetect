@@ -111,8 +111,9 @@ Feel free to explore different models, hyperparameters, and preprocessing techni
 
 ## Results
 
-The project includes a visualization of the metrics for each model, allowing you to compare their performance. Make sure to analyze the results carefully to determine which model best suits your specific fruit classification task.
-![Metrics Comparison](graph.png)
+The project includes a visualization of the metrics for each model, allowing you to compare their performance. Make sure to analyze the results carefully to determine which model best suits your specific fruit classification task.  
+
+![Metrics Comparison](graphs.png)
 
 ## License
 
